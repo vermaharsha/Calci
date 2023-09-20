@@ -1,10 +1,10 @@
-# CodSoft-Calci
+# Calci
 
-Welcome to the CodSoft Calci , a dynamic web application that simplifies basic arithmetic operations. Developed as part of an internship project with *Codsoft*, this calculator offers a user-friendly and responsive tool for quick calculations.
+Welcome to the Calci , a dynamic web application that simplifies basic arithmetic operations. This calculator offers a user-friendly and responsive tool for quick calculations.
 
 ## Demo
 
-You can explore the calculator in action by visiting the [Calculator Demo](https://vermaharsha.github.io/CodSoft-Calci/).
+You can explore the calculator in action by visiting the [Calculator Demo](https://vermaharsha.github.io/Calci/).
 
 ## Features
 
